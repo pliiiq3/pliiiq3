@@ -16,3 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Terminal" width="26px" src="https://www.kindpng.com/picc/m/153-1538018_terminal-icon-hd-png-download.png" />
