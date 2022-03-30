@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
+
 <!---
 pliiiq3/pliiiq3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 [<img alt="pliii.net" src="https://img.icons8.com/dusk/64/000000/domain.png"/>][website]
 
-
+[<img alt="https://www.linkedin.com/in/johnbedeir/" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>][linkedin]
 
 <br />
 
@@ -49,3 +51,4 @@ You can click the Preview link to take a look at your changes.
 
 
 [website]: https://pliii.net/
+[linkedin]: https://www.linkedin.com/in/pliiiq3/
