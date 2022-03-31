@@ -1,7 +1,7 @@
 ### Hi there, I'm Ali - 👋
 
 
-- 🌱 I’m currently learning **Python and kubernetes**
+- 🌱 I’m currently learning **everything**
 
 
 - ⚡ Fun fact: Big Fan of the :zap: emoji
@@ -100,6 +100,8 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
+
+Python and kubernetes
 
 --->
 
