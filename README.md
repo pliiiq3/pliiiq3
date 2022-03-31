@@ -44,11 +44,10 @@ You can click the Preview link to take a look at your changes.
 [<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/>](https://www.java.com/)
 
 
- 
+[<img align="left" alt="Docker" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" />](https://www.docker.com/)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)
 [<img align="left" alt="Terminal" width="26px" src="https://www.kindpng.com/picc/m/153-1538018_terminal-icon-hd-png-download.png" />](https://pages.github.com/)
-[<img align="left" alt="Docker" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" />](https://www.docker.com/)
 [<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>](https://kubernetes.io) 
 [<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/stickers/100/000000/github.png"/>](https://pages.github.com/)
 
