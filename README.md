@@ -51,28 +51,8 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/stickers/100/000000/github.png"/>](https://github.com/)
 
  
-
-
- 
-  
-
- 
-
-
-
-
-
-  
- 
- 
- 
-
  
 </p>
-
-
-
-
 
 <!---
 [](https://pages.github.com/)
@@ -103,10 +83,6 @@ Python and kubernetes
 
 --->
 
-<br />
-<br />
-
----
 
 
 <details>
@@ -124,6 +100,3 @@ Python and kubernetes
 [linkedin]: https://www.linkedin.com/in/pliiiq3/
 
 
-
-
-[sql-server]: https://www.microsoft.com/en-us/sql-server
