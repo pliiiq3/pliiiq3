@@ -29,6 +29,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools:
 
+ <p align="left"> 
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -42,6 +44,9 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" alt="Docker" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" />
 <img align="left" alt="Kubernetes" width="30px" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+
+
+
 
 
 
@@ -63,7 +68,7 @@ You can click the Preview link to take a look at your changes.
 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   
-
+</p>
 
 <!---
 
