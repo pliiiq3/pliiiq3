@@ -1,11 +1,18 @@
 ### Hi there, I'm Ali - 👋
 
-- 👀 I’m interested in ...
+
 - 🌱 I’m currently learning **Python and kubernetes**
+
+
+- ⚡ Fun fact: Big Fan of the :zap: emoji
+<!-- - ⚡ Fun fact: I love to draw and play guitar / drums
+
+- 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- ⚡ Fun fact: Big Fan of the :zap: emoji
-<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
+
+
+-->
 
 <!---
 pliiiq3/pliiiq3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
