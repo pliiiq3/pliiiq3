@@ -50,6 +50,7 @@ You can click the Preview link to take a look at your changes.
 [<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>](https://kubernetes.io) 
 [<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/stickers/100/000000/github.png"/>](https://github.com/)
 [<img align="left" alt="archlinux" width="40" height="40" src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4"/>](https://archlinux.org/)
+[<img align="left" alt="ubuntu" width="40" height="40" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4"/>](https://ubuntu.com/)
 
 </p>
 
