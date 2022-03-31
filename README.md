@@ -40,6 +40,10 @@ You can click the Preview link to take a look at your changes.
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> ](https://www.python.org/)
 [<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>](https://www.microsoft.com/en-us/sql-server)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)
+[<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="cs" width="40" height="40"/>](https://www.w3schools.com/cs/)
+[<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/>](https://www.java.com/)
+
+
  
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)
@@ -73,7 +77,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!---
-  [](https://pages.github.com/)
+[](https://pages.github.com/)
 ------------------------------------------------------------------------------------------------
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
 
