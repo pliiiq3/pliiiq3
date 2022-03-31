@@ -88,7 +88,7 @@ Python and kubernetes
 <details>
   <summary>:zap: Tools Documentation</summary>
 <!--START_SECTION:activity-->
-1. [Git Commands](https://github.com/pliiiq3/pliiiq3/blob/main/Git.md)
+1. [Git Commands](https://github.com/pliiiq3/pliiiq3/blob/main/Git.md) <br>
 2. [Archlinux installation](https://github.com/pliiiq3/Archlinux_installation)
 
  
