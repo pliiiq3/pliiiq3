@@ -106,7 +106,7 @@ Python and kubernetes
 
 
 <details>
-  <summary>:zap: Devops Tools Documentation</summary>
+  <summary>:zap: Tools Documentation</summary>
 <!--START_SECTION:activity-->
 1. [Git Commands](https://github.com/pliiiq3/pliiiq3/blob/main/Git.md)
 
