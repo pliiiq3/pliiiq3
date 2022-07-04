@@ -3,6 +3,14 @@
 
 
   <a href="https://github.com/pliiiq3">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliiiq3&layout=compact&theme=chartreuse-dark" />
+</a>
+
+
+
+
+
+  <a href="https://github.com/pliiiq3">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliiiq3&layout=compact" />
 </a>
 
