@@ -1,13 +1,15 @@
 ### Hi there, I'm Ali - 👋
 
-<a href="https://github.com/pliiiq3">
+
 
 (https://github-readme-stats.vercel.app/api/top-langs/?username=pliiiq3&layout=compact)
   
+  https://github-readme-stats.vercel.app/api/top-langs/?username=pliiiq3&layout=compact
   
-   <img align="center" width="49%" src="[https://github-readme-stats.vercel.app/api?username=pliiiq3](https://github-readme-stats.vercel.app/api/top-langs/?username=pliiiq3&layout=compact)&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=yes" />
-
+  <a href="https://github.com/pliiiq3">
+  <img align="center" width="49%" src="[https://github-readme-stats.vercel.app/api?username=pliiiq3&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=yes](https://github-readme-stats.vercel.app/api/top-langs/?username=pliiiq3&layout=compact)" />
 </a>
+
 - 🌱 I’m currently learning **everything**
 
 
