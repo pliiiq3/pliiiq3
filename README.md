@@ -11,7 +11,7 @@
 
 
 <a href="https://github.com/pliiiq3">
-  <img align="center" width="100%" src="./overall.svg" />
+  <img align="center" width="80%" src="./overall.svg" />
 </a>
 
 
