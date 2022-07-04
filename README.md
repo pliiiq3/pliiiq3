@@ -13,9 +13,7 @@
 <a href="https://github.com/pliiiq3">
   <img align="center" width="49%" src="./overall.svg" />
 </a>
-<a href="https://github.com/pliiiq3">
-  <img align="center" width="49%" src="./achievements.svg" />
-</a>
+
 
 
 - 🌱 I’m currently learning **everything**
