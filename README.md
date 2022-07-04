@@ -1,10 +1,10 @@
 ### Hi there, I'm Ali - 👋
 
+<a href="https://github.com/pliiiq3">
 
+(https://github-readme-stats.vercel.app/api/top-langs/?username=pliiiq3&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pliiiq3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+</a>
 - 🌱 I’m currently learning **everything**
 
 
