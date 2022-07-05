@@ -37,7 +37,7 @@
 
 
   <a href="https://github.com/pliiiq3">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliiiq3&hide=html,css,javascript&layout=compact&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliiiq3&hide=html,css&layout=compact&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 
 
