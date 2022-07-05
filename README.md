@@ -37,11 +37,11 @@
 
 
   <a href="https://github.com/pliiiq3">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliiiq3&layout=compact&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliiiq3&hide=html&layout=compact&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 
 
-<!---
+<!---   &hide=javascript,html 
 pliiiq3/pliiiq3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
