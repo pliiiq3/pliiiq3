@@ -46,13 +46,14 @@ pliiiq3/pliiiq3 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---  
 ### Connect with me:
 
 [<img alt="pliii.net" src="https://img.icons8.com/dusk/64/000000/domain.png"/>][website]
 [<img alt="https://www.linkedin.com/in/johnbedeir/" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>][linkedin]
 
 <br />
-
+--->
 ### Languages and Tools:
 
  <p align="left"> 
